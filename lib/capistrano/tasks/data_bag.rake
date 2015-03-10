@@ -1,4 +1,4 @@
-namespace :data-bag do
+namespace :data_bag do
   desc 'Desk Test'
   task :test do
     execute 'echo hostname'
